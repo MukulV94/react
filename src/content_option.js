@@ -11,34 +11,13 @@ const introdata = {
         second: "I do full stack marketing",
         third: "I develop strategic marketing plans",
     },
-    description: "Currently working as an Associate Engagement Manager for a leading American dental care client for improving their digital search landscape presence
-
-Worked for a year in the pre-sales team providing 40+ pitches/proposals/solutions for SEO/CRO at iQuanti.
-
-Completed MBA from IIM Trichy in 2021 and Electrical Engineering graduate from IIT Dhanbad. 
-
-Was Summer Intern at the Reserve Bank of India (RBI) for a Research Project on the “Impact of COVID-19 on Non-bank financial companies (NBFCs)”
-
-Worked as a Content Strategy Intern at an EV start-up “BLive” where I did Competitor Analysis and designed a Roadmap for their Content Strategy across all their Social Media handles.
-
-Was a Member of the Placement Office (Preparatory Team) at IIM Trichy where we have done Career Development Activities for more than 500+ students
-
-After graduation, Worked as an Academic Consultant in an Ed-Tech company for two years. Job was to make sure that the daily operations are conducted smoothly while the company is getting new admissions. Conducted new Campaigns to increase the top line and made sure to utilize User feedback to convert them into reality.
-
-Founded a Start-up “Work2skills” which tried to bridge the gap between Students and Vocational Training providers. The Start-up worked for a year but gave an exponential learning experience.
-
-Was a member of a National NGO “FAST & FORWARD” and counseled underprivileged students about different career prospects. Took the initiative of starting a Facebook page to act as a forum for the said NGO to answer and discuss the questions of the aspirants.",
+    description: "Currently working as an Associate Engagement Manager for a leading American dental care client for improving their digital search landscape presence. Worked for a year in the pre-sales team providing 40+ pitches/proposals/solutions for SEO/CRO at iQuanti. Completed MBA from IIM Trichy in 2021 and Electrical Engineering graduate from IIT Dhanbad. Was Summer Intern at the Reserve Bank of India (RBI) for a Research Project on the “Impact of COVID-19 on Non-bank financial companies (NBFCs)”. Worked as a Content Strategy Intern at an EV start-up “BLive” where I did Competitor Analysis and designed a Roadmap for their Content Strategy across all their Social Media handles. Was a Member of the Placement Office (Preparatory Team) at IIM Trichy where we have done Career Development Activities for more than 500+ students After graduation, Worked as an Academic Consultant in an Ed-Tech company for two years. Job was to make sure that the daily operations are conducted smoothly while the company is getting new admissions. Conducted new Campaigns to increase the top line and made sure to utilize User feedback to convert them into reality. Founded a Start-up “Work2skills” which tried to bridge the gap between Students and Vocational Training providers. The Start-up worked for a year but gave an exponential learning experience. Was a member of a National NGO “FAST & FORWARD” and counseled underprivileged students about different career prospects. Took the initiative of starting a Facebook page to act as a forum for the said NGO to answer and discuss the questions of the aspirants.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "About about my self",
-    aboutme: "Few things about me:
-	1. From Lucknow, Uttar Pradesh
-	2. Managing Digital marketing project for a leading American Dentalcare brand with a topline of USD 800K
-	3. MBA from IIM Trichy in Marketing & Operations and B.tech in Electrical Engg from IIT Dhanbad
-	4. Problem Solver, Go Getter, Empathetic, Analytical Mind
-	5. Quick Learner, Coachable, Enthusiastic",
+    aboutme: "Few things about me: From Lucknow, Uttar Pradesh. Managing Digital marketing project for a leading American Dentalcare brand with a topline of USD 800K. MBA from IIM Trichy in Marketing & Operations and B.tech in Electrical Engg from IIT Dhanbad. Problem Solver, Go Getter, Empathetic, Analytical Mind. Quick Learner, Coachable, Enthusiastic",
 };
 const worktimeline = [{
         jobtitle: "Program Manager",
